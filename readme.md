@@ -45,7 +45,7 @@ In credit scoring, it’s crucial for models to be transparent and trustworthy, 
 
 ## Sample Visualizations
 
-_(Insert screenshots or example SHAP summary plot if desired, or say “See notebook for visualizations.”)_
+_(See notebook for visualizations.)_
 
 ## Next Steps/Future Work
 
